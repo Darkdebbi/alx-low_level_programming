@@ -19,5 +19,6 @@ if (argc > 0)
 {
 /*WHILE - Print each arguments*/
 while (count < argc)
-{	
+}	
 printf("%s\n", argv[count]);
+}
